@@ -1,6 +1,6 @@
 ### Hi👋 This is Sum playground!!🌏
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=181717"/></a>
+<a href="https://bloom-queen-d0e.notion.site/Today-Sum-Learned-64e4e511619042559f9d2532a5b028ee" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=181717"/></a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tnals545)
 
