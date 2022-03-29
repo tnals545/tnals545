@@ -2,6 +2,10 @@
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=tnals545)
 
 ![tnals545's github stats](https://github-readme-stats.vercel.app/api?username=tnals545&show_icons=true)
