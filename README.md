@@ -1,4 +1,4 @@
-### Hi👋 This is Summm playground!!🌏
+### Hi👋 This is Sum playground!!🌏
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a> <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=181717"/></a>
 
