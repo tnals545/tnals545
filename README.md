@@ -5,9 +5,9 @@
 <br>
 <br>
 ### My Skills 🧰
-- python
-- html, css
-- tensorflow
+- Python
+- HTML, CSS
+- Tensorflow
 <br>
 <br>
 <br>
