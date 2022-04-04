@@ -8,6 +8,7 @@
 - Python
 - HTML, CSS
 - Tensorflow
+- Node.js
 <br>
 <br>
 <br>
