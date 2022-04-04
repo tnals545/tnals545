@@ -7,8 +7,8 @@
 ### My Skills 🧰
 - Python
 - HTML, CSS
-- Tensorflow
 - Node.js
+- Tensorflow
 <br>
 <br>
 <br>
