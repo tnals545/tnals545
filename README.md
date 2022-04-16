@@ -4,11 +4,14 @@
 <br>
 <br>
 <br>
+<br>
+
 ## My Skills 🧰
 - Python
 - HTML, CSS
 - Node.js
 - Tensorflow
+<br>
 <br>
 <br>
 <br>
