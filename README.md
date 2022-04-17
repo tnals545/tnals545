@@ -10,7 +10,7 @@
 - Python
 - HTML, CSS
 - Node.js
-- Tensorflow
+- GitHub
 <br>
 <br>
 <br>
