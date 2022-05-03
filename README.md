@@ -8,6 +8,7 @@
 - Block Chain
 - Cryptocurrency
 - Front End
+- Cloud
 <br>
 
 ## 🧰 My Skills 
