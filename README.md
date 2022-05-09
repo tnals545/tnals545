@@ -4,7 +4,6 @@
 <br>
 <br>
 
-
 ## 🧐My Interest
 - Block Chain
 - Cryptocurrency
@@ -12,14 +11,12 @@
 - Cloud
 <br>
 
-
 ## 🧰 My Skills 
 - Machine/Deep Learning
 - Data Analysis
 - Image Processing
 <br>
 <br>
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tnals545)
 
