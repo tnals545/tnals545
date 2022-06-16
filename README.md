@@ -7,14 +7,13 @@
 ## 🧐My Interest
 - Block Chain
 - Cryptocurrency
-- Front End
-- Cloud
+- Front-End
 <br>
 
 ## 🧰 My Skills 
+- Javascript, HTML, CSS
 - Machine/Deep Learning
 - Data Analysis
-- Image Processing
 <br>
 <br>
 
