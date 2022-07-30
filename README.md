@@ -15,7 +15,6 @@
 - Machine/Deep Learning
 - Data Analysis
 <br>
-
 <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=tnals545)
 
