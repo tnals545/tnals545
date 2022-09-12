@@ -6,9 +6,9 @@
 <br>
 
 ## 🧐My Interest
+- Front-End
 - Block Chain
 - Cryptocurrency
-- Front-End
 
 <br>
 
