@@ -14,8 +14,11 @@
 
 ## 🧰 My Skills 
 - Javascript, HTML, CSS
-- Machine/Deep Learning
-- Data Analysis
+- React
+- Next.js
+- Redux / Redux-Toolkit
+- TypeScript
+- styled-components
 
 <br>
 <br>
