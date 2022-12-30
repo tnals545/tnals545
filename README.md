@@ -18,9 +18,9 @@
   <br><br>
   
   <h4>🌏 Contact & Channels</h4>
-  <img src="https://img.shields.io/badge/Gmail-xhem159@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/xhem159@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
   <a href="https://dsuumb.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-EA5220?style=flat&logo=Tistory&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-EA5220?style=flat&logo=Tistory&logoColor=white" />
   </a>
 </div>
 
