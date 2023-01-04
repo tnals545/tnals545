@@ -26,7 +26,6 @@
 
 <br><br><br>
 
-
 <div align=center>
   <h2>🛠️ Skills</h2>
   <h4>🌱Main (Front-End)</h4>
