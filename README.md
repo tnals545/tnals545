@@ -46,8 +46,8 @@
 
 <div align=center>
 
-![tnals545's github stats](https://github-readme-stats.vercel.app/api?username=tnals545&show_icons=true&theme=tokyonight)
-
+  ![Github stats](https://github-readme-stats-tnals545.vercel.app/api?username=tnals545)
+  
 </div>
 
 <!--
